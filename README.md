@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Victor Narazas</h1>
 <h3 align="center">A passionate Programmer from Cibertec</h3>
 <p align="center">I am a web developer, I like challenges and providing solutions to technological problems.🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=CoDeVeck&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-</p>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
