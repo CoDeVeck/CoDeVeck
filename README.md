@@ -6,25 +6,19 @@
 <p align="center">I am a web developer, I like challenges and providing solutions to technological problems.🛠️</p>
 
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" style="display:inline-block;" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-<!--  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-<!--  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /> -->
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" style="display:inline-block;" />
+</p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -89,7 +83,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/v%C3%ADctor-narazas-93ab323a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor narazas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/v%C3%ADctor-narazas-93ab323a1/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor narazas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Vector_gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victor narazas" height="30" width="40" /></a>
 </p>
 <br>
